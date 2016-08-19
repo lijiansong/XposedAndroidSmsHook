@@ -1,0 +1,2 @@
+com.example.xposed_sms.ClientHooker
+com.example.xposed_sms.ServerHooker
